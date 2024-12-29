@@ -1,12 +1,12 @@
 # Password Strength Checker  
 
-## Internship Details  
-- **Name**: Mohammad Salman Salahutheen  
-- **Company**: CODTECH IT SOLUTIONS  
-- **ID**: CT6WEFH  
-- **Domain**: Cyber Security & Ethical Hacking  
-- **Duration**: December 17th, 2024, to February 2nd, 2025  
-- **Mentor**: N. Santhosh  
+ 
+ **Name**: Mohammad Salman Salahutheen  
+ **Company**: CODTECH IT SOLUTIONS  
+ **ID**: CT6WEFH  
+ **Domain**: Cyber Security & Ethical Hacking  
+ **Duration**: December 17th, 2024, to February 2nd, 2025  
+ **Mentor**: N. Santhosh  
 
 ## Overview of the Project  
 This project is a **Password Strength Checker**, designed to evaluate the strength of a given password based on several key factors, such as length, variety of character types, and use of special characters. It calculates a password strength score and provides feedback on whether the password is weak, average, or strong.  
